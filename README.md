@@ -28,7 +28,6 @@ PHP CRUD with CSS
     DELETE FROM `product` WHERE id = 3
 
 ### Connection Database
-    ```php
     $servername = 'localhost';
     $username = 'root';
     $password = '';
@@ -44,4 +43,4 @@ PHP CRUD with CSS
     }else{
         echo "Tra Error";
     }
-    ```
+   
