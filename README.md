@@ -13,4 +13,4 @@ PHP CRUD with CSS
     CREATE TABLE product(
 	id int(11) PRIMARY KEY,
     product_name varchar(50) NOT NULL
-)
+    )
