@@ -14,3 +14,6 @@ PHP CRUD with CSS
 	id int(11) PRIMARY KEY,
     product_name varchar(50) NOT NULL
     )
+    
+### Insert data
+    INSERT INTO `product`(`id`, `product_name`) VALUES ('1','Hoodie')
