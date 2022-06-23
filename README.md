@@ -20,3 +20,6 @@ PHP CRUD with CSS
 
 ### Drop table
     DROP TABLE product
+
+### Update Data
+    UPDATE `product` SET `product_name`='Black Coffe' WHERE `id` = 1
