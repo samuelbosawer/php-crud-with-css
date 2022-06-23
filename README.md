@@ -8,3 +8,9 @@ PHP CRUD with CSS
 
 ### Drop Database
     DROP DATABASE database_name
+
+### Create table
+    CREATE TABLE product(
+	id int(11) PRIMARY KEY,
+    product_name varchar(50) NOT NULL
+)
