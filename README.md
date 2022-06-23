@@ -11,7 +11,7 @@ PHP CRUD with CSS
 
 ### Create table
     CREATE TABLE product(
-	id int(11) PRIMARY KEY,
+	id int(11) AUTO_INCREMENT PRIMARY KEY,
     product_name varchar(50) NOT NULL
     )
     
