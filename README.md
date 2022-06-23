@@ -23,3 +23,6 @@ PHP CRUD with CSS
 
 ### Update Data
     UPDATE `product` SET `product_name`='Black Coffe' WHERE `id` = 1
+
+### Delete Data
+    DELETE FROM `product` WHERE id = 3
