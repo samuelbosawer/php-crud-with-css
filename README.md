@@ -17,3 +17,6 @@ PHP CRUD with CSS
     
 ### Insert data
     INSERT INTO `product`(`id`, `product_name`) VALUES ('1','Hoodie')
+
+### Drop table
+    DROP TABLE product
