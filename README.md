@@ -5,3 +5,6 @@ PHP CRUD with CSS
 
 ### Create New Database
     CREATE DATABASE database_name
+
+### Drop Database
+    DROP DATABASE database_name
